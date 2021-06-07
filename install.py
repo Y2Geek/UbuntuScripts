@@ -15,10 +15,10 @@ packages = [
     'vlc',
     'gimp',
     'git',
-    'python3-pip',
     'virtualbox',
     'virtualbox-dkms',
-    'gthumb', ]
+    'gthumb', 
+    'bleachbit', ]
 
 to_install = ""
 for package in packages:
